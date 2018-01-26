@@ -1,0 +1,26 @@
+#holst{
+	width: 875px;
+	height:285px;
+	border: 1px solid #000;
+	margin:40px;
+	background-image: url(sprite.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.ism{
+	padding-left: 40px;
+}
+.iam{
+	display: inline-block;
+	background-color: #f8ebcc;
+	padding: 7px;
+	border-radius: 50px;
+	font-weight: 900;
+    
+}
+.iam:hover{
+	color:#ff0000;
+}
+#fax{
+	display: inline-block;
+}
